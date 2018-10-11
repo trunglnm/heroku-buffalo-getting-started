@@ -1,0 +1,14 @@
+{
+  "name": "buffalo-heroku-getting-started",
+  "description": "buffalo heroku getting started app",
+  "keywords": [
+    "getting-started",
+    "buffalo",
+    "heroku",
+    "go",
+    "sample",
+    "example"
+],
+  "website": "https://github.com/blake1986/heroku-buffalo-getting-started",
+  "repository": "https://github.com/blake1986/heroku-buffalo-getting-started"
+}
